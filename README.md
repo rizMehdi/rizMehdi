@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Expertise: 
+
 ![Adafruit Badge](https://img.shields.io/badge/Adafruit-000?logo=adafruit&logoColor=fff&style=flat-square)
 ![Adobe Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=flat-square)
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff&style=flat-square)
@@ -36,6 +37,7 @@ Expertise:
 
 
 Platforms i like and use: 
+
 ![DeviantArt Badge](https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=fff&style=flat-square)
 ![Digg Badge](https://img.shields.io/badge/Digg-000?logo=digg&logoColor=fff&style=flat-square)
 ![Flickr Badge](https://img.shields.io/badge/Flickr-0063DC?logo=flickr&logoColor=fff&style=flat-square)
@@ -48,15 +50,16 @@ Platforms i like and use:
 ![Scopus Badge](https://img.shields.io/badge/Scopus-E9711C?logo=scopus&logoColor=fff&style=flat-square)
 ![SoundCloud Badge](https://img.shields.io/badge/SoundCloud-F30?logo=soundcloud&logoColor=fff&style=flat-square)
 ![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat-square)
+![Thingiverse Badge](https://img.shields.io/badge/Thingiverse-248BFB?logo=thingiverse&logoColor=fff&style=flat-square)
 ![Wikipedia Badge](https://img.shields.io/badge/Wikipedia-000?logo=wikipedia&logoColor=fff&style=flat-square)
 
 
 Future projects:
+
 ![Open Access Badge](https://img.shields.io/badge/Open%20Access-F68212?logo=openaccess&logoColor=fff&style=flat-square)
 ![Gutenberg Badge](https://img.shields.io/badge/Gutenberg-000?logo=gutenberg&logoColor=fff&style=flat-square)
 ![IFTTT Badge](https://img.shields.io/badge/IFTTT-000?logo=ifttt&logoColor=fff&style=flat-square)
 ![Internet Archive Badge](https://img.shields.io/badge/Internet%20Archive-666?logo=internetarchive&logoColor=fff&style=flat-square)
 ![Kickstarter Badge](https://img.shields.io/badge/Kickstarter-05CE78?logo=kickstarter&logoColor=fff&style=flat-square)
 ![Qgis Badge](https://img.shields.io/badge/Qgis-589632?logo=qgis&logoColor=fff&style=flat-square)
-![Thingiverse Badge](https://img.shields.io/badge/Thingiverse-248BFB?logo=thingiverse&logoColor=fff&style=flat-square)
 
