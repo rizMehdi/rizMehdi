@@ -22,7 +22,6 @@ Expertise:
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=fff&style=flat-square)
 ![Autodesk Badge](https://img.shields.io/badge/Autodesk-0696D7?logo=autodesk&logoColor=fff&style=flat-square)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square)
-![Flickr Badge](https://img.shields.io/badge/Flickr-0063DC?logo=flickr&logoColor=fff&style=flat-square)
 ![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=flat-square)
 ![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=flat-square)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
